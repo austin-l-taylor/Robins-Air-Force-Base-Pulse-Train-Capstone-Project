@@ -1,6 +1,6 @@
 # Pulse Train Data Processor and CNN Model
 
-This Python application processes CSV files containing pulse train data, preprocesses this data, and applies a Convolutional Neural Network (CNN) model for analysis.
+This Python application processes CSV files containing pulse train data, preprocesses this data, and applies a Convolutional Neural Network (FFNN) model for analysis.
 
 
 ## Contributors

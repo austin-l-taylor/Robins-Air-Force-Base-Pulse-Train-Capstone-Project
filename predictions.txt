@@ -1,0 +1,26 @@
+Accuracy: 100.00%
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved1_40.csv: Stable
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved1_56.csv: Stable
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved2_46.csv: Stagger
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved2_5.csv: Stable
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved3_40.csv: Stable
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved3_46.csv: Stagger
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved3_56.csv: Stable
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved3_57.csv: Stagger
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved4_34.csv: Cycler
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved4_57.csv: Stagger
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved5_3.csv: Cycler
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved5_34.csv: Cycler
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved6_34.csv: Jitter
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved6_37.csv: Jitter
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved6_5.csv: Jitter
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved6_57.csv: Jitter
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved7_37.csv: Jitter
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved7_43.csv: Jitter
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved7_52.csv: Jitter
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved8_3.csv: Cycler
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved8_34.csv: Cycler
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved8_37.csv: Jitter
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved8_43.csv: Jitter
+Predicted label for ./PulseTrainData/Interleaved/Processed\Interleaved8_52.csv: Jitter
+Prediction complete.
